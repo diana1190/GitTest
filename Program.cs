@@ -12,7 +12,7 @@ namespace Lab1_DianaGutierrez_23538
         {
             Console.WriteLine("Escriba su nombre");
             string nombre = Console.ReadLine();
-            Console.WriteLine("Hola " + nombre + " Este es su primer programa");
+            Console.WriteLine("Hola, como estás?" + nombre + " Este es su primer programa");
             Console.ReadLine();
         }
     }
